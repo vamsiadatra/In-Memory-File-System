@@ -1,0 +1,74 @@
+
+2023-12-14 16:27:16.451631
+commands exec: 
+1. cd folder
+2. cd my_folder
+3. echo myfile
+4. grep myfile i
+5. ls
+6. 
+
+2023-12-14 16:32:05.755484
+commands exec: 
+1. cd folder
+2. cd folder1
+3. touch file1
+4. echo file1
+5. ls
+6. cat file 1
+
+2023-12-14 17:05:32.561667
+commands exec: 
+1. cd folder : The dir changed to folder
+2. cd folder : The dir changed to folder
+3. ls : 4. help : Asked for help
+5. exit : Exiting the program
+
+
+2023-12-14 17:08:05.362601
+commands exec: 
+We are now at: D:\Py4e
+1. cd folder : The dir changed to folder
+We are now at: D:\Py4e\folder
+2. ls : The files in the directory are: folder folder1 my_folder
+We are now at: D:\Py4e\folder
+3. help : Asked for help
+We are now at: D:\Py4e\folder
+4. exit : Exiting the program
+
+
+2023-12-14 17:59:23.458687
+commands exec: 
+No command line args passed, continuing..
+We are now at: D:\Py4e
+
+2023-12-14 18:00:24.078348
+commands exec: 
+No command line args passed, continuing..
+We are now at: D:\Py4e
+1. cd folder : The dir changed to folder
+We are now at: D:\Py4e\folder
+2. ls : The files in the directory are: folder,folder1,my_folder
+We are now at: D:\Py4e\folder
+3. help : Asked for help
+We are now at: D:\Py4e\folder
+4. exit : Exiting the program
+
+D:\Py4e\folder
+
+2023-12-14 18:16:26.069931
+commands exec: 
+
+2023-12-14 18:21:54.392731
+commands exec: 
+No command line args passed, continuing..
+We are now at: D:\Py4e
+1. cd folder : The dir changed to folder
+We are now at: D:\Py4e\folder
+2. ls : The files in the directory are: folder,folder1,my_folder
+We are now at: D:\Py4e\folder
+3. touch newfile : The file with name newfile is created
+We are now at: D:\Py4e\folder
+4. exit : Exiting the program
+
+D:\Py4e\folder
