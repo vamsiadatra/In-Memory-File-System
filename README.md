@@ -1,5 +1,6 @@
 In-Memory File System
-Your task is to create an in-memory file system to support various functionalities. The file system should include the following operations:
+
+The task is to create an in-memory file system to support various functionalities. The file system should include the following operations:
 
 mkdir: Create a new directory.
 cd: Changes the current directory. Support navigating to the parent directory using .., moving to the root directory using /, and navigating to a specified absolute path. Basically anything that you can do in a normal terminal. Since there is no user level implementation, ~ and / should take you to root.
