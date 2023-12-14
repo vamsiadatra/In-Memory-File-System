@@ -37,32 +37,3 @@ For example - let's say you wrote the the whole program in python. `python scrip
 Taking the same python file, if you want to start where you left, when a new process starts, input could be - `python script.py "{'load_state': 'true', 'path': '/songs/guns_n_roses/november_rain.txt'}`,
 
 You can think of a different implementation of the same as well
-
-
-## Grading Criteria
-
-Your submission will be assessed based on:
-
-1. Correctness - Whatever is implemented needs to work 99.99% of the times. Errors must be handled 😅.
-2. Completeness - All the requirements of the assignment should be complete. Every operation that is implemented has their own weightage. Complete all 10 to get the maximum marks.
-3. Efficiency - O(1), O(log N) and all that jazz
-4. Clarity, structure, and readability of the code - Plz Don't write everything in one file 🙏🙏🙏🙏🙏🙏🙏. Make it structured, pass context to the new class.
-5. Speed - Be hacky, submit fast.
-6. Unit Tests - You stand out if you write them. 🙌🙌🙌🙌
-7. Docs - Write down how you implemented the system, data structures used, design decisions taken etc etc. **Assume that the dev that is going to check your code does not have their environment setup for your code to run. write a setup script or a docker file that we can run** . PS - We will not be checking your code if docs are not written
-
-## Submission Guidelines
-
-* Submit your code in the chosen programming language along with explanations of the implemented functionalities, improvements made to the design, and instructions on how to run and test your program.
-
-* Create a GitHub repo, create a PR with with the changes and fill the form with the github link and other details - https://forms.gle/9p8KuuqL6gnwqWoy7.
-
-* Along with the link, submit your resume and any other work of yours that you want us to consider.
-
-**Note:**
-
-Linking a few playlists that might help you out while coding -
-
-* https://www.youtube.com/watch?v=_8qtMXyu9D8
-* https://www.youtube.com/watch?v=serJjyYrEhY
-* https://www.youtube.com/watch?v=Kt-tLuszKBA
